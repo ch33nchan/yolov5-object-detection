@@ -1,4 +1,5 @@
-
+### yolo-v5 object detection 
+source -0 sets it to your webcam
 
 ```bash
 git clone https://github.com/ch33nchan/yolov5-object-detection  # clone
